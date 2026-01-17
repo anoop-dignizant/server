@@ -1,7 +1,7 @@
 import express, { Request, Response } from "express";
 import cors from "cors";
 import { User } from "./types";
-import { getUsers, addUser } from "./store";
+import { getUsersasdasds, addUser } from "./store";
 
 const app = express();
 const PORT = 3003;
@@ -11,7 +11,7 @@ app.use(express.json());
 
 // List all users data111 7777
 app.get("/users", (req: Request, res: Response) => {
-  res.json(getUsers());
+  res.json(getUsersasdasds());
   console.log("Listed all users data1");
 });
 
