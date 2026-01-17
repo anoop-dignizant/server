@@ -5,7 +5,11 @@ const users: User[] = [];
 
 export const getUsersasdasds = (): any => {
 
-  return "Sample Data";
+  return {
+    users: users,
+    total: users.length
+    
+  };
 }; // Reverted to return User[] for simplicity
 const eeeeeeeeeeee = 1234567890;
 
