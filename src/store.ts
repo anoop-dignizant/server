@@ -7,7 +7,8 @@ export const getUsers = (): any => {
 
   return {
     hello: "world",
-    users: users
+    users: users,
+    killer: "bee",
   };
 }; // Reverted to return User[] for simplicity
 const eeeeeeeeeeee = 1234567890;
