@@ -10,7 +10,7 @@ app.use(cors());
 app.use(express.json());
 
 // List all users data111 7777
-app.get("/userssdfasds", (req: Request, res: Response) => {
+app.get("/users", (req: Request, res: Response) => {
   res.json(getUsers());
   console.log("Listed all users data1");
 });
