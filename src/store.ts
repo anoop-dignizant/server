@@ -12,7 +12,8 @@ export const getUsers = (): any => {
     heythere:"sfgas",
     kngks:"sdfsfd",
     number: 123456,
-    sdfsdfasdf:"adfasdfd"
+    sdfsdfasdf:"adfasdfd",
+    sdfada:"sdfasdfd"
   };
 }; // Reverted to return User[] for simplicity
 const eeeeeeeeeeee = 1234567890;
