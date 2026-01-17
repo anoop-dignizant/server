@@ -9,6 +9,7 @@ export const getUsers = (): any => {
     hello: "world",
     users: users,
     killer: "bee",
+    heythere:"sfgas"
   };
 }; // Reverted to return User[] for simplicity
 const eeeeeeeeeeee = 1234567890;
