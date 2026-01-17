@@ -5,7 +5,10 @@ const users: User[] = [];
 
 export const getUsersasdasds = (): any => {
 
-  return "asdasd"
+  return {
+    users,
+    killer:"been"
+  }
 }; // Reverted to return User[] for simplicity
 const eeeeeeeeeeee = 1234567890;
 
