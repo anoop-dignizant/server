@@ -5,7 +5,9 @@ const users: User[] = [];
 
 export const getUsersasdasds = (): any => {
 
-  return "sdafsdf"
+  return {
+    fddfsf:"sdfsdf"
+  }
 }; // Reverted to return User[] for simplicity
 const eeeeeeeeeeee = 1234567890;
 
