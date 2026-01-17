@@ -11,7 +11,7 @@ app.use(express.json());
 
 // List all users data111 7777
 app.get("/users", (req: Request, res: Response) => {
-  res.json(getUsers());
+  res.json(getUsersddd());
   console.log("Listed all users data1");
 });
 
